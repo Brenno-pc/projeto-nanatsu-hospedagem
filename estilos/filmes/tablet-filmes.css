@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    width: 100vw;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+
+    /*filme 1*/
+    --cor1: #781876 ; 
+    --cor2: #A320A0 ;
+    --cor3: #3E3C9A ;
+    --cor4: #68AFDE ;
+    --cor5: #2695FA ;
+
+
+    /*filme 2*/
+    --cor1: #3A2728 ; 
+    --cor2: #352425 ;
+    --cor3: #2C2424 ;
+    --cor4: #1C1814 ;
+    --cor5: #131316 ;
+
+
+    /*filme 3*/
+    --cor1: #D1CFEB ; 
+    --cor2: #C7AFE5 ;
+    --cor3: #544752 ;
+    --cor4: #272522 ;
+    --cor5: #050506 ;
+}
