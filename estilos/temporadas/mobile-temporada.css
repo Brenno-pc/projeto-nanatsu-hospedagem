@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px ;
+    margin: 0px ;
+    box-sizing: border-box;
+}
+
+:root {
+    /*temporada - 1 */
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+
+    /*temporada - 2 */
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+
+    /*temporada - 3 */
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+
+    /*temporada - 4 */
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+
+    /*temporada - 5 */
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+    --cor:;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
