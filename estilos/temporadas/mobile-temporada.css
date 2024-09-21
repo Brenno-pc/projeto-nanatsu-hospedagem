@@ -26,7 +26,7 @@
     --cor:;
     --cor:;
     --cor:;
-    --cor:;
+    --cor:; 
 
     /*temporada - 4 */
     --cor:;
@@ -47,3 +47,66 @@
 body {
     background-color: rgb(255, 255, 255);
 }
+
+main {
+    background-color: black;
+    padding: 20px ;
+
+}
+
+
+    section#temporada-1 {
+        
+    }
+        video {
+            
+                
+        }
+        div#temp-1 {
+            
+        }
+
+
+    section#temporada-2 {
+        
+    }
+        video {
+                
+        }
+        div#temp-2 {
+        
+        }
+
+
+    section#temporada-3 {
+        
+    }
+        video {
+                
+        }
+        div#temp-3 {
+            
+        }
+
+
+    section#temporada-4 {
+        
+    }
+        video {
+                
+        }
+        div#temp-4 {
+            
+        }
+
+
+    section#temporada-5 {
+        
+    }
+        video {
+                
+        }
+        div#temp-5 {
+            
+        }
+
